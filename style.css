@@ -1,0 +1,172 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+.header{
+    float: right;
+    margin-top: 30px;
+}
+ul li {
+    text-decoration: none;
+    display: inline;
+    margin: 15px;
+
+    font-size: 15px;
+
+}
+.class2{
+    margin-left: 150px;
+}
+.flex-container {
+    display: flex;
+    background-color: white;
+  }
+  
+  .flex-container > div {
+    background-color: #d8d7d7;
+    margin: 10px;
+    padding: 10px;
+    font-size: 15px;
+    margin-left: 50px;
+    width: 100px;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .Indoor{
+      margin-top: 50px;
+      text-align: center;
+      /* background-color: #c7bfbf; */
+  }
+
+.Indoor h1{
+
+    text-align: center;
+    font-size: 45px;
+    color: #212020;
+    
+}
+
+.Indoor p{
+
+    text-align: center;
+    font-size: 30px;
+    line-height: 50px;
+    
+}
+
+.price{
+
+    display: inline;
+    margin-left: 10px;
+}
+
+  .flex {
+      display: flex;
+      margin-left: 10px;
+  }
+  .flex img{
+    display: flex;
+    margin: 10px;
+    height: 550px;
+    width: 400px;
+}
+.colors{
+width: 20px;
+height: 20px;
+border-radius: 50%;
+background-color: tomato;
+margin: 15px;
+padding: 2px;
+display: inline;
+}
+
+
+
+.price1 p{
+    text-align: justify;
+margin-left: 20px;
+font-size: 20px;
+
+} 
+
+.price2 p{
+    text-align: justify;
+    margin-left: 20px;
+    font-size: 20px;
+   
+} 
+.price3 p{
+    text-align: justify;
+    margin-left: 20px;
+    font-size: 20px;
+    ;
+} 
+
+.products h1{
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 50px;
+    color: rgb(19, 18, 18);
+    
+}
+
+.products p{
+    margin-left: 40px;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.grown{
+    position: absolute;
+    top: 1900px;
+    left: 100px;
+    right: 100px;
+    bottom: 80px;
+    width: 1150px;
+    height: 230px;
+    background-color: #ffffff;
+    border: solid 1px #d8d7d7;
+
+}
+.grown h1{
+    margin-top: 30px;
+    font-size: 40px;
+    margin-left: 80px;
+}
+.grown p{
+    margin-top: 10px;
+    margin-left: 80px;
+    font-size: 18px;
+
+    line-height: 30px;
+}
+.icon{
+    text-align: center;
+   
+}
+.icon ul li{
+    font-size: 20px;
+}
+.overlap{
+    margin-top: 60px;
+    width: 1240px;
+    height: 350px;
+    margin-left: 55px;
+    margin-right: 55px;
+    margin-bottom: 150px;
+    
+
+}
+
+
+hr{
+    margin-top:40px ;
+    margin-bottom: 30px;
+}
+
+.bottom{
+    margin-top: 50px;
+    width: 1400px;
+    height: 600px;
+}
